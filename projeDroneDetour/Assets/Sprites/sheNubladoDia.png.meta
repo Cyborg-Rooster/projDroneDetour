@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: d08e361bd9c82464cbf7fec1b0ce1ca9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sheNubladoDia_0
+  - first:
+      213: 21300002
+    second: sheNubladoDia_1
+  - first:
+      213: 21300004
+    second: sheNubladoDia_2
+  - first:
+      213: 21300006
+    second: sheNubladoDia_3
+  - first:
+      213: 21300008
+    second: sheNubladoDia_4
+  - first:
+      213: 21300010
+    second: sheNubladoDia_5
+  - first:
+      213: 21300012
+    second: sheNubladoDia_6
+  - first:
+      213: 21300014
+    second: sheNubladoDia_7
+  - first:
+      213: 21300016
+    second: sheNubladoDia_8
+  - first:
+      213: 21300018
+    second: sheNubladoDia_9
+  - first:
+      213: 21300020
+    second: sheNubladoDia_10
+  - first:
+      213: 21300022
+    second: sheNubladoDia_11
+  - first:
+      213: 21300024
+    second: sheNubladoDia_12
+  - first:
+      213: 21300026
+    second: sheNubladoDia_13
+  - first:
+      213: 21300028
+    second: sheNubladoDia_14
+  - first:
+      213: 21300030
+    second: sheNubladoDia_15
+  - first:
+      213: 21300032
+    second: sheNubladoDia_16
+  - first:
+      213: 21300034
+    second: sheNubladoDia_17
+  - first:
+      213: 21300036
+    second: sheNubladoDia_18
+  - first:
+      213: 21300038
+    second: sheNubladoDia_19
+  - first:
+      213: 21300040
+    second: sheNubladoDia_20
+  - first:
+      213: 21300042
+    second: sheNubladoDia_21
+  - first:
+      213: 21300044
+    second: sheNubladoDia_22
+  - first:
+      213: 21300046
+    second: sheNubladoDia_23
+  - first:
+      213: 21300048
+    second: sheNubladoDia_24
+  - first:
+      213: 21300050
+    second: sheNubladoDia_25
+  - first:
+      213: 21300052
+    second: sheNubladoDia_26
+  - first:
+      213: 21300054
+    second: sheNubladoDia_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheNubladoDia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b833957d558db43b9fb317f5323081
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed7a232d38a943459ece6ce9ad96f95
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecbcac0dc95d2e4ca66dfc807c8c915
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b98eddc0486c8428372526830dbd35
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de21350cbe6f1439c1f6d3b11b5fc0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4fc646774f8d4085ae02937696d15
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65141be02b33b214fb6ac9b40f6da17d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b9606163820f498a99d2c853bc064
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1647d32f1820149ac55a23581b5d42
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebafb778e9494642b05827f4a7a40ad
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96a5a70b3ba884a94f38093abbf5ef
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ce8d5d27309446997529963fac121
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b1f462f2436074584db5dfe1df78a4
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f695db16e9f51674cb34ea88aea292a4
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e17de0c8c7582a4281bc5113946c2d3
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932e6130bd6f424184587995c4c493f
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5375df8a25fcd174ca2178edcc26d32e
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57a0f85fb6dc84b9d3ad0eafffc4ca
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6383504373319ae4cb0aec91a1d9f6f1
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393666c20a3b9c47b5934518a1fa751
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eb46442683b6b489e6e992b6ae3c44
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5830c17b34e5d0f4185906e8f7264475
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cc5dda81c73d444a4d9955e735b14d
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6eef4689642d44ade1f388a3dcede
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b81efa73fe5530498363c5da4c691be
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b508d2087172f4d81da6ed9c40a0f1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9a8df45b7796f4bb31efd327074a01
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoDia_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd41a5b5ce4f00a419e400d9b020e6c0
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7bbab23d6289ab745a87151c7ae87e16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

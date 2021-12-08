@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 884d40c240dcc3b45b67da40587c8cae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sheNubladoNoite_0
+  - first:
+      213: 21300002
+    second: sheNubladoNoite_1
+  - first:
+      213: 21300004
+    second: sheNubladoNoite_2
+  - first:
+      213: 21300006
+    second: sheNubladoNoite_3
+  - first:
+      213: 21300008
+    second: sheNubladoNoite_4
+  - first:
+      213: 21300010
+    second: sheNubladoNoite_5
+  - first:
+      213: 21300012
+    second: sheNubladoNoite_6
+  - first:
+      213: 21300014
+    second: sheNubladoNoite_7
+  - first:
+      213: 21300016
+    second: sheNubladoNoite_8
+  - first:
+      213: 21300018
+    second: sheNubladoNoite_9
+  - first:
+      213: 21300020
+    second: sheNubladoNoite_10
+  - first:
+      213: 21300022
+    second: sheNubladoNoite_11
+  - first:
+      213: 21300024
+    second: sheNubladoNoite_12
+  - first:
+      213: 21300026
+    second: sheNubladoNoite_13
+  - first:
+      213: 21300028
+    second: sheNubladoNoite_14
+  - first:
+      213: 21300030
+    second: sheNubladoNoite_15
+  - first:
+      213: 21300032
+    second: sheNubladoNoite_16
+  - first:
+      213: 21300034
+    second: sheNubladoNoite_17
+  - first:
+      213: 21300036
+    second: sheNubladoNoite_18
+  - first:
+      213: 21300038
+    second: sheNubladoNoite_19
+  - first:
+      213: 21300040
+    second: sheNubladoNoite_20
+  - first:
+      213: 21300042
+    second: sheNubladoNoite_21
+  - first:
+      213: 21300044
+    second: sheNubladoNoite_22
+  - first:
+      213: 21300046
+    second: sheNubladoNoite_23
+  - first:
+      213: 21300048
+    second: sheNubladoNoite_24
+  - first:
+      213: 21300050
+    second: sheNubladoNoite_25
+  - first:
+      213: 21300052
+    second: sheNubladoNoite_26
+  - first:
+      213: 21300054
+    second: sheNubladoNoite_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheNubladoNoite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad373dfed409cf946b91367724c460c9
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046686601061b38458165bbe9e10fc93
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becbb81a2a96ee243a3eef1df386313a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d89bf37a6bebcd45ac50853031d8b64
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1100
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe9c584c16d6514a8682b3a51717934
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c812e07a5adb4cb6e8b678e1565d6
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a16d5fa14329ba4eb7695e4ed7baef0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c8e66376f24a41b9e13108d4a3e92
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5161c5ec041658942bfe1d25a5e40b44
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 880
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bb24a4bc745a54994155cc25aacb3f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c3499332215a047bb61b21fcc3e912
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958a4659eede7e744a7d7b3ad0579922
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936bf002780babf49b85b98570aae4ec
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89101c0598484c744906d170b24922df
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 660
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccbe9ff7b29d534b83075bda4a3a996
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a2a3891d24ae4bb5c412550160333
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c816df89f0dc14449af5cc580e4966d2
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3931380771f3b7f46ab67124c292c30c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37afbddc65edc9446bf46dd278d90dbe
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 440
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7952166ca171649b7443206bb727ac
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4d8c26248a8d4595767706247ede9
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682760bd1d14e640b2677d7b3c5ebb1
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0103f4bc6875b94ba98f13b748c7aae
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8400bda4b5d20584cba34b5d236790ca
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 220
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b86de4f538a5644ea488013e4ba3e1c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06695c74bd8a5e46b5daa8199617b52
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de792ee5373dcf94e8b222e0f5d9fc90
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheNubladoNoite_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09413c7c85ab38340b5a84684b1f6c75
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a3557fb1dccb3b45923d27aa83b877e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
