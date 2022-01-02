@@ -46,9 +46,6 @@ public class GameManager : MonoBehaviour
         GameStateManager.SetComponents(uiDialogBoxBig, btnStart, txtTutorial, gameOver, txtScore, txtBestScore);
         GameStateManager.SetComponents(dialogBoxSmall, showAd, error, buttonColliders);
 
-        Debug.Log("Teste");
-        Debug.Log("estou lendo como " + PhaseConfiguration.AdShown);
-
         if (PhaseConfiguration.AdShown) LoadPhaseData();
         else adController.LoadAd();
     }
@@ -128,7 +125,6 @@ public class GameManager : MonoBehaviour
         PhaseConfiguration.Raining = raining;
         PhaseConfiguration.AdShown = true;
         PhaseConfiguration.lastTime = 0;
-        Debug.Log("estou salvando como " + PhaseConfiguration.AdShown);
     }
 
     IEnumerator AdFade(bool fadeIn)
